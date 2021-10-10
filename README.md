@@ -6,9 +6,6 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🔭 I’m currently working on getting AWS Cloud Developer Associate certificate.
-- 🌱 I’m currently learning GraphQL & AWS Cloud certification.
-- 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: nicholastanui@gmail.com
 - ⚡ Fun fact: I love hiking.
 
