@@ -1,10 +1,10 @@
-### Hi there, I'm Nicholas Tanui! 👋
+### Hi there, I'm Nicholas Tanui!
 <a href="mailto:nicholastanui@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nicholastanui/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/NicholasTanui)
 
 
-### Glad to see you here! 🤩 &nbsp;
+### Glad to see you here!
 
 - 📫 How to reach me: nicholastanui@gmail.com
 - ⚡ Fun fact: I love hiking.
